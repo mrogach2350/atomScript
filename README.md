@@ -11,12 +11,23 @@ This picture shows the plugin 'Script' in action (look at the bottom half of the
 <img src="imgs/img1.png" width="50%" alt="yellow lily">
 
 
-
+In order to install 'Script':
+From within Atom, click help.
+Click the 'welcome guide' option from the help menu.
+Click 'install package'.
+Click 'open installer' (blue button).
+Click 'install' from the left-hand menu
+Type in 'script' (the one which says 'run code in Atom!')
 
 
 <img src="imgs/img2.png" width="50%" alt="yellow lily">
 
-
+To use 'Script', while in editing your file:
+Select 'packages' from the top-most menu
+Mouse over 'script'
+Memorize the key combination for 'Run Script' (or just click 'Run Script'
+???
+PROFIT!!!
 
 
 <img src="imgs/img3.png" width="50%" alt="yellow lily">
