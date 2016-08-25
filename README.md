@@ -9,3 +9,14 @@ This picture shows the plugin 'Script' in action (look at the bottom half of the
 
 
 <img src="imgs/img1.png" width="50%" alt="yellow lily">
+
+
+
+
+
+<img src="imgs/img2.png" width="50%" alt="yellow lily">
+
+
+
+
+<img src="imgs/img3.png" width="50%" alt="yellow lily">
